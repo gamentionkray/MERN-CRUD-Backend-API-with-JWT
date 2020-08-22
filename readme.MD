@@ -3,8 +3,9 @@
 ---
 
 > To start using,
-> yarn install then,
-> yarn dev
+>
+> 1. yarn install
+> 2. yarn dev
 
 #### Configure your port, MongoDB URI and JWT secret key in config folder
 
