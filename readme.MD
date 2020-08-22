@@ -1,4 +1,4 @@
-### MERN CRUD Backend API with JWT
+# MERN CRUD Backend API with JWT
 
 ---
 
