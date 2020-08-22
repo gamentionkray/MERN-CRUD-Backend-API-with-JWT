@@ -63,4 +63,4 @@ server
 
 ---
 
-##### A special thanks to Packt Publishing's book [Full-Stack React Projects - Second Edition(https://www.packtpub.com/product/full-stack-react-projects-second-edition/9781839215414)
+#### A special thanks to Packt Publishing's book [Full-Stack React Projects - Second Edition](https://www.packtpub.com/product/full-stack-react-projects-second-edition/9781839215414)
