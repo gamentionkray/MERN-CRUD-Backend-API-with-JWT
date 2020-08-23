@@ -65,7 +65,7 @@ server
 ---
 
 ```diff
-+ Compiles ES6+ code using Babel.
++ Babel is used here to use import/export and async/await commands which is not supported ususally.
 ```
 
 ---
