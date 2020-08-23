@@ -65,7 +65,7 @@ server
 ---
 
 ```diff
-+ Babel is used here to use import/export and async/await commands which is not supported ususally.
++ Babel is used here to use import/export and async/await commands which is not supported ususally below ES6.
 ```
 
 ---
