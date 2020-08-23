@@ -7,6 +7,11 @@
 > 1. yarn install
 > 2. yarn dev
 
+```diff
+! Note:- You need to have MongoDB installed and running locally on your machine.
+# To learn how to install MongoDB on windows 10, click [here](https://www.youtube.com/watch?v=FwMwO8pXfq0)
+```
+
 #### Configure your port, MongoDB URI and JWT secret key in config folder
 
 ---
